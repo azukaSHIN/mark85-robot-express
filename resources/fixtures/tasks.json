@@ -1,0 +1,77 @@
+
+
+{
+        "create":{
+            "user": {
+                "name": "Steve Jobs",
+                "email": "jobs@apple.com",
+                "password": "pwd123" 
+            },
+            "task":{
+                "name": "Criar um nova versão do Ipod",
+                "tags": ["ios", "music", "ipod"]
+
+            }
+        },
+
+        "duplicate":{
+            "user": {
+                "name": "Backend Insomnia",
+                "email": "api@fake.com.br",
+                "password": "pwd123" 
+            },
+            "task":{
+                "name": "Teste de API",
+                "tags": []
+
+            }
+        },
+
+        "tags_limit":{
+            "user": {
+                "name": "Naomi Ishii",
+                "email": "naomi@fake.com.br",
+                "password": "pwd123" 
+            },
+            "task":{
+                "name": "Assistir desenho",
+                "tags": ["bob", "pow", "marsha", "JJ"]
+
+            }
+        },
+
+        
+        
+        "done":{
+            "user": {
+                "name": "Sammy Ishii",
+                "email": "sammy@fake.com.br",
+                "password": "pwd123" 
+            },
+            "task":{
+                "name": "Atividades do dia",
+                "tags": ["comer", "correr", "dormir"]
+
+            }
+        },
+        
+        
+    "delete":{
+        "user": {
+            "name": "Ayumi Ishii",
+            "email": "ayumi@fake.com.br",
+            "password": "pwd123" 
+        },
+        "task":{
+            "name": "Jogos preferidos",
+            "tags": ["Roblox", "pkxd", "toca live"]
+
+        }
+    }
+
+        
+
+
+
+
+}
